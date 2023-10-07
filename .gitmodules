@@ -1,0 +1,18 @@
+[submodule "APIGateway_FlightReservationSystem"]
+	path = APIGateway_FlightReservationSystem
+	url = https://github.com/SubratYeeshu/APIGateway_FlightReservationSystem.git
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/SubratYeeshu/ReminderService.git
+[submodule "AuthService"]
+	path = AuthService
+	url = https://github.com/SubratYeeshu/AuthService.git
+[submodule "FlightsAndSearchService"]
+	path = FlightsAndSearchService
+	url = https://github.com/SubratYeeshu/FlightsAndSearchService.git
+[submodule "AutoScaleAWSUserDataScript"]
+	path = AutoScaleAWSUserDataScript
+	url = https://github.com/SubratYeeshu/AutoScaleAWSUserDataScript.git
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/SubratYeeshu/AirTicketBookingService.git
